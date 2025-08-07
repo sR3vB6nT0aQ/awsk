@@ -1,7 +1,7 @@
 {
-  "name": "awita-scraper",
+  "name": "xd",
   "version": "1.2.9",
-  "description": "Scrapers para AwiTa-MD",
+  "description": "xd",
   "main": "index.js",
   "type": "module",
   "exports": {
