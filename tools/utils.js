@@ -2,9 +2,9 @@ import fetch from 'node-fetch'
 
 const downloadLimits = {
   audio: 15 * 1024 * 1024,
-  video: 50 * 1024 * 1024,
+  video: 30 * 1024 * 1024,
   image: 10 * 1024 * 1024,
-  doc: 5 * 1024 * 1024,
+  doc: 10 * 1024 * 1024,
   default: 15 * 1024 * 1024
 }
 
