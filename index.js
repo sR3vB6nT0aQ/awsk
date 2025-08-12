@@ -256,3 +256,13 @@ export {
     chamba,
     getTemporada
   } from './econ/chambas.js';
+  
+  /* ❢◥ ▬▬▬▬▬ N S F W ▬▬▬▬▬ ◤❢ */
+  /**
+  * Contenido NSFW
+  */
+  
+  export {
+    xnxxsearch,
+    xnxxdl
+  } from './nsfw/nsfw-xnxx.js';
