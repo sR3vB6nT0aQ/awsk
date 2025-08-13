@@ -181,6 +181,7 @@ export {
   export {
     dlytv
   } from './download/youtubedlv.js'; /* 💢 Downed Module 💢 */
+export { spdl5 } from './download/spotify5.js';
 
 
 
@@ -266,3 +267,7 @@ export {
     xnxxsearch,
     xnxxdl
   } from './nsfw/nsfw-xnxx.js';
+  export {
+    xvideossearch,
+    xvideosdl 
+  } from './nsfw/nsfw-xvideos.js';
