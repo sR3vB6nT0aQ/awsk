@@ -90,11 +90,11 @@ async function searchYouTube(query, limit = 1) {
 }
 
 // Función de búsqueda simple (1 resultado)
-export async function ytSearch(query) {
+export async function ytsSearch(query) {
     return await searchYouTube(query, 1);
 }
 
 // Función de búsqueda completa (todos los resultados)
-export async function fytSearch(query) {
+export async function fytsSearch(query) {
     return await searchYouTube(query, null);
 }
