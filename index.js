@@ -221,6 +221,15 @@ export { spdl5 } from './download/spotify5.js';
   export {
     rSearch
   } from './search/rSearch.js';
+    export {
+    ytSearch,
+    fytSearch
+  } from './search/yts.js';
+  export {
+    ytmSearch,
+    fytmSearch,
+    ytmMetadata
+  } from './search/myts.js';
 
 
   /* ❢◥ ▬▬▬▬▬ U T I L S ▬▬▬▬▬ ◤❢ */
