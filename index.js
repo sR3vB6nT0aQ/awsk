@@ -222,8 +222,8 @@ export { spdl5 } from './download/spotify5.js';
     rSearch
   } from './search/rSearch.js';
     export {
-    ytSearch,
-    fytSearch
+    ytsSearch,
+    fytsSearch
   } from './search/yts.js';
   export {
     ytmSearch,
